@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "Challenge": {
+      "applicationId": "vfVzRP1VMoIx2wvQuJ8WY8BX5oJCU0SLV6pQKlqg",
+      "masterKey": "LXBBid41rCQvxuPNrVvSrvxhy6dDHMQJCIyh8X34"
+    }
+  },
+  "global": {
+    "parseVersion": "1.17.3"
+  }
+} 

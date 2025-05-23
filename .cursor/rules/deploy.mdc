@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Never use the mcp_back4app_deploy_web_hosting_files tool
+- When deploying files, always use the /usr/local/bin/b4a to do it.
+- You're not allowed to use the command "new" alongside the /usr/local/bin/b4a call in any circumstances.
+- When deploying files, always include subfolders with assets.
+- Do not check if the app's URL is working after deploying
+- Do not stop the agent after 25 tool calls. Do as many calls as needed to complete your task.
